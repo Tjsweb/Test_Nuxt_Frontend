@@ -6,7 +6,7 @@
           <div class="flex flex-wrap -mx-3 -mb-6">
             <div class="w-full mx-auto md:w-1/2 lg:w-1/3 px-3 mb-6">
               <div class="relative p-6 text-center bg-gray-500 rounded-xl">
-                <img class="block mx-auto mb-5 w-28 h-28" src="trizzle-assets/images/avatar-men-1.png" alt="">
+                <img class="block mx-auto mb-5 w-28 h-28" src="" alt="">
                 <h4 class="text-xl text-white font-bold mb-3">John Doe</h4>
                 <p class="text-gray-300 mb-3">Front-end Developer</p>
                 <span
