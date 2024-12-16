@@ -1,0 +1,33 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.clip-path {
+    clip-path: ellipse(26% 50% at 50% 50%); 
+}
+
+.clip-path-2 {
+    clip-path: ellipse(22% 50% at 50% 50%); 
+}
+
+.clip-path-3 {
+    clip-path: ellipse(99% 50% at 0% 50%);
+}
+
+.clip-path-right {
+    clip-path: ellipse(74% 50% at 0% 50%);
+}
+
+.shadow-blue-white {
+    -webkit-box-shadow: 150px 150px 250px 50px #e7dada, -100px -70px 270px 1px #1d20db, 110px 120px 470px 140px rgba(0,0,0,0.43); 
+    box-shadow: 150px 150px 250px 50px #e7dada, -100px -70px 270px 1px #1160bb, 110px 120px 470px 140px rgba(0,0,0,0.43);
+}
+
+.text-stroke {
+    color: #D7C200;
+    -webkit-text-fill-color: black; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #D7C200;
+}

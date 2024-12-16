@@ -1,0 +1,8 @@
+<svg width="255" height="256" viewBox="0 0 255 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="32" y="32" width="191" height="191">
+<ellipse cx="127.5" cy="127.597" rx="59.7249" ry="120.587" transform="rotate(45 127.5 127.597)" fill="black"/>
+</mask>
+<g mask="url(#mask0)">
+<ellipse opacity="0.16" rx="59.7249" ry="120.587" transform="matrix(-0.707107 0.707107 0.707107 0.707107 127.5 127.597)" stroke="white"/>
+</g>
+</svg>
