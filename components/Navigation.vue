@@ -26,12 +26,12 @@
         </ul>
       </div>
       <div class="hidden lg:flex items-center">
-        <a class="inline-flex items-center justify-center py-3 px-6 rounded-full bg-yellow-300 hover:bg-yellow-400 transform duration-200"
-          href="#">
+        <button class="inline-flex items-center justify-center py-3 px-6 rounded-full bg-yellow-300 hover:bg-yellow-400 transform duration-200"
+          onclick="toggleChatWindow()">
           <svg class="mr-3" width="16" height="9" viewbox="0 0 16 9" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M12.01 3.16553H0V5.24886H12.01V8.37386L16 4.20719L12.01 0.0405273V3.16553Z" fill="black"></path>
           </svg><span class="text-xs font-heading">Sign Up</span>
-        </a>
+        </button>
       </div>
       <button class="navbar-burger lg:hidden self-center">
         <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
