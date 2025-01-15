@@ -30,7 +30,7 @@
           onclick="toggleChatWindow()">
           <svg class="mr-3" width="16" height="9" viewbox="0 0 16 9" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M12.01 3.16553H0V5.24886H12.01V8.37386L16 4.20719L12.01 0.0405273V3.16553Z" fill="black"></path>
-          </svg><span class="text-xs font-heading">Sign Up</span>
+          </svg><span class="text-xs font-heading">Chat with AI</span>
         </button>
       </div>
       <button class="navbar-burger lg:hidden self-center">
